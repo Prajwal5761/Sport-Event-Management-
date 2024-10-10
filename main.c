@@ -10,7 +10,7 @@ int main()
 	p_a pa=create_list_ath();
 	create_list_ticket_tennis();
 	create_list_ticket_swim();
-	create_list_ticket_ath();
+	// create_list_ticket_ath();
 
     int r,p,l,m,q;
 	int a,b,c,n,idn;
