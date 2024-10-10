@@ -1,4 +1,5 @@
 # Ignore Python and React artifacts
-__pycache__/
-node_modules/
+header file/
+logic file/
+main.file/
 *.log
