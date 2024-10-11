@@ -3,7 +3,7 @@
 //function when list empty for each event
 int t_Empty(p_t pt)
 {
-  return (pt->t_next== NULL)
+  return (pt->t_next== NULL);
 }
 int s_Empty(p_s ps)
 {
