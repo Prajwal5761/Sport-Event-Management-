@@ -626,7 +626,7 @@ void result_player(p_t pt,p_s ps,p_a pa)
 			printf("RANK :%d\n",pos1->p1.rank);
 			printf("EVENT:TENNIS\n");
 		}
-		
+		pos1 = pos1->t_next;
 	}
 	while(pos2!=ps)
 	{
