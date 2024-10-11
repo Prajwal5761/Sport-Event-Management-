@@ -8,7 +8,7 @@ struct player
 	int p_id;
 	char contact[20];
 	int age;
-	int rank
+	int rank;
 };
 
 struct t_score{int t_rounds; int t_points;};
