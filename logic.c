@@ -560,9 +560,9 @@ void a_winner(p_a pa)
                 }
                 temp1=temp1->a_next;
             }
-            temp=temp->a_next;
+            
         }
-		temp=pa->a_next;
+		
 		while(temp!=pa)
 		{
 			temp->p3.rank=i;
