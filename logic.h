@@ -158,7 +158,7 @@ void update_data_book(int idn,int old,struct visitornode *first);
 
 //FOR CASE:8 WHEN ROLE IS ADMIN
 //function to cancel ticket booked by visitor
-//void update_booking_cancel(struct visitornode *first);
+void update_booking_cancel(struct visitornode *first);
 
 //function to print the confirmation for ticket booking for VISITOR
 void detail_vis(struct visitornode *first1,struct visitornode *first2,struct visitornode *first3);
